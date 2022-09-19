@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="plane:jar">
+    <output-path>$PROJECT_DIR$/../../新建文件夹</output-path>
+    <root id="archive" name="plane.jar">
+      <element id="module-output" name="plane" />
+      <element id="module-source" name="plane" />
+    </root>
+  </artifact>
+</component>
